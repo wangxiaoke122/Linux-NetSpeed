@@ -76,6 +76,6 @@ mv 解压目录 www     (命令是将该目录名称改为www)
 
 输入命令 nano /etc/apt/sources.list
 
-将里面的东西注释掉，贴入镜像源代码
+将里面的东西注释掉，贴入镜像源代码 例如：参考 https://blog.csdn.net/yaningli/article/details/100534955
 
 Ctrl+X 退出保存
